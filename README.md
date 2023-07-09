@@ -1,8 +1,13 @@
 # Bharat-Intern-tasks
+
 Task 1
+
 Problem statement :
+
 TO PREDICT THE STOCK PRICE OF ANY COMPANY USING LSTM.
+
 ABOUT DATASET :
+
 This dataset contains historical data of Google's stock prices and related attributes. It consists of 14 columns and a smaller subset of 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
 
 The columns in the dataset are as follows:
@@ -21,13 +26,17 @@ adjOpen: The adjusted opening value of Google's stock on the given day.
 adjVolume: The adjusted trading volume of Google's stock on the given day, accounting for factors such as stock splits.
 divCash: The amount of cash dividend paid out to shareholders on the given day.
 splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
+
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
 
 Solution:https://github.com/kavyachintala05548/Bharat-Intern-tasks/blob/main/Stock%20Price%20Prediction-Copy1.pdf
 
 Task 2
+
 Problem statement :
+
 Titanic Classification 
+
 Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic
 
 Solution:https://github.com/kavyachintala05548/Bharat-Intern-tasks/blob/main/TITANIC%20CLLASSIFICATION%20(1).pdf
