@@ -22,6 +22,7 @@ adjVolume: The adjusted trading volume of Google's stock on the given day, accou
 divCash: The amount of cash dividend paid out to shareholders on the given day.
 splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+Solution:https://github.com/kavyachintala05548/Bharat-Intern-tasks/blob/main/Stock%20Price%20Prediction-Copy1.pdf
 
 Task 2
 Problem statement :
